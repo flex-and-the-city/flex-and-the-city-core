@@ -8,8 +8,8 @@
 This project is structured into four distinct phases to simulate a professional software development lifecycle (SDLC).
 
 ### Q1: Discovery and Architecture (Current)
-- [x] Define Core Idea and Purpose
-- [ ] Map Initial Project Structure and Lifecycle Approach
+- [x] [Define Core Idea and Purpose](./docs/vision.md)
+- [x] [Map Initial Project Structure and Lifecycle Approach](./docs/lifecycle.md)
 - [ ] Identify and Document Technologies
 - [ ] Document Key Assumptions, Risks, and Open Questions
 
