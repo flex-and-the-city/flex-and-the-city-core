@@ -10,7 +10,7 @@ This project is structured into four distinct phases to simulate a professional 
 ### Q1: Discovery and Architecture (Current)
 - [x] [Define Core Idea and Purpose](./docs/vision.md)
 - [x] [Map Initial Project Structure and Lifecycle Approach](./docs/lifecycle.md)
-- [x] Identify and Document Technologies
+- [x] [Identify and Document Technologies](./docs/stack.md)
 - [ ] Document Key Assumptions, Risks, and Open Questions
 
 ### Q2: Infrastructure and Project Management
