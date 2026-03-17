@@ -1,4 +1,4 @@
-# 🔍 Discovery: Assumptions, Risks, & Open Questions (Updated)
+# 🔍 Discovery: Assumptions, Risks, & Open Questions
 
 ## 1. Updated Key Assumptions
 1. **Kotlin Multiplatform (KMP) Viability:** We assume that KMP is stable enough to share the "Flex Logic" (unit conversion, exercise variations) between the Android app and the Web version.
