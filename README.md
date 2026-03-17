@@ -11,7 +11,7 @@ This project is structured into four distinct phases to simulate a professional 
 - [x] [Define Core Idea and Purpose](./docs/vision.md)
 - [x] [Map Initial Project Structure and Lifecycle Approach](./docs/lifecycle.md)
 - [x] [Identify and Document Technologies](./docs/stack.md)
-- [ ] Document Key Assumptions, Risks, and Open Questions
+- [x] [Document Key Assumptions, Risks, and Open Questions](./docs/discovery.md)
 
 ### Q2: Infrastructure and Project Management
 - [ ] Environment Setup and Repo Configuration
