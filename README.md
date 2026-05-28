@@ -16,7 +16,7 @@ This project is structured into four distinct phases to simulate a professional 
 ### Q2: Infrastructure and Project Management
 - [ ] Environment Setup and Repo Configuration
 - [ ] Define Naming Conventions and Project Standards
-- [ ] Build Product Backlog (Epics/User Stories)
+- [x] Build Product Backlog (Epics/User Stories)
 - [ ] CI/CD Pipeline Configuration
 
 ### Q3: Development (Execution)
